@@ -1,4 +1,5 @@
 import numpy as np
+<<<<<<< HEAD
 import copy
 MAP_SIZE=(100,100)
 START=[(0,MAP_SIZE[1]-1),(MAP_SIZE[0]/3,MAP_SIZE[1]-1)]
@@ -25,4 +26,7 @@ def gen():
     #border_gen()
     policy=        
     
+=======
+
+>>>>>>> 38618b9000a88d1133d243a12991156a72759d9a
 
